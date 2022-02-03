@@ -1,5 +1,0 @@
-C:\Users\VanyaPc\source\repos\LibraryBooks\BenchmarkLibrary\obj\Release\net5.0\BenchmarkLibraryBooks.csproj.AssemblyReference.cache
-C:\Users\VanyaPc\source\repos\LibraryBooks\BenchmarkLibrary\obj\Release\net5.0\BenchmarkLibraryBooks.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\VanyaPc\source\repos\LibraryBooks\BenchmarkLibrary\obj\Release\net5.0\BenchmarkLibraryBooks.AssemblyInfoInputs.cache
-C:\Users\VanyaPc\source\repos\LibraryBooks\BenchmarkLibrary\obj\Release\net5.0\BenchmarkLibraryBooks.AssemblyInfo.cs
-C:\Users\VanyaPc\source\repos\LibraryBooks\BenchmarkLibrary\obj\Release\net5.0\BenchmarkLibraryBooks.csproj.CoreCompileInputs.cache
